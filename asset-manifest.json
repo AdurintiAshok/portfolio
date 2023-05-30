@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portpolio/static/css/main.b96a88af.css",
+    "main.js": "/portpolio/static/js/main.2ff1e29c.js",
+    "static/js/787.32f0e742.chunk.js": "/portpolio/static/js/787.32f0e742.chunk.js",
+    "static/media/Ashok.png": "/portpolio/static/media/Ashok.6aa4e71075e272f5f3b9.png",
+    "static/media/ashokresume.pdf": "/portpolio/static/media/ashokresume.eaed289a587da036abc5.pdf",
+    "index.html": "/portpolio/index.html",
+    "main.b96a88af.css.map": "/portpolio/static/css/main.b96a88af.css.map",
+    "main.2ff1e29c.js.map": "/portpolio/static/js/main.2ff1e29c.js.map",
+    "787.32f0e742.chunk.js.map": "/portpolio/static/js/787.32f0e742.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96a88af.css",
+    "static/js/main.2ff1e29c.js"
+  ]
+}
